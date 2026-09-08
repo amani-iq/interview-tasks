@@ -14,6 +14,7 @@ mobile/
   flutter/         junior | mid | senior
 fullstack/
   go-nextjs/       junior | mid | senior
+  nestjs-nextjs/   junior | mid | senior
 ```
 
 ## Briefs
@@ -49,6 +50,14 @@ fullstack/
 | Junior | [`fullstack/go-nextjs/junior.md`](./fullstack/go-nextjs/junior.md) |
 | Mid | [`fullstack/go-nextjs/mid.md`](./fullstack/go-nextjs/mid.md) |
 | Senior | [`fullstack/go-nextjs/senior.md`](./fullstack/go-nextjs/senior.md) |
+
+### Fullstack / NestJS + Next.js
+
+| Level | File |
+| --- | --- |
+| Junior | [`fullstack/nestjs-nextjs/junior.md`](./fullstack/nestjs-nextjs/junior.md) |
+| Mid | [`fullstack/nestjs-nextjs/mid.md`](./fullstack/nestjs-nextjs/mid.md) |
+| Senior | [`fullstack/nestjs-nextjs/senior.md`](./fullstack/nestjs-nextjs/senior.md) |
 
 ## How to submit
 
