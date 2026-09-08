@@ -1,0 +1,6 @@
+# Private interviewer material — never publish
+*.scorecard.md
+INTERVIEWERS.md
+
+# OS / editor cruft
+.DS_Store
