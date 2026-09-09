@@ -6,15 +6,19 @@ Pick the one file that matches the role you were asked to try, read it, and buil
 
 ```
 backend/
-  nestjs/          junior | mid | senior
-  golang/          junior | mid | senior
+  nestjs/            junior | mid | senior
+  golang/            junior | mid | senior
+  dotnet/            junior | mid | senior
+  laravel/           junior | mid | senior
 frontend/
-  nextjs/          junior | mid | senior
+  nextjs/            junior | mid | senior
 mobile/
-  flutter/         junior | mid | senior
+  flutter/           junior | mid | senior
 fullstack/
-  go-nextjs/       junior | mid | senior
-  nestjs-nextjs/   junior | mid | senior
+  go-nextjs/         junior | mid | senior
+  nestjs-nextjs/     junior | mid | senior
+  php-nextjs/        junior | mid | senior
+  aspnetcore-nextjs/ junior | mid | senior
 ```
 
 ## Briefs
@@ -26,6 +30,12 @@ fullstack/
 | Junior | [`backend/nestjs/junior.md`](./backend/nestjs/junior.md) | [`backend/golang/junior.md`](./backend/golang/junior.md) |
 | Mid | [`backend/nestjs/mid.md`](./backend/nestjs/mid.md) | [`backend/golang/mid.md`](./backend/golang/mid.md) |
 | Senior | [`backend/nestjs/senior.md`](./backend/nestjs/senior.md) | [`backend/golang/senior.md`](./backend/golang/senior.md) |
+
+| Level | .NET (ASP.NET Core) | PHP (Laravel) |
+| --- | --- | --- |
+| Junior | [`backend/dotnet/junior.md`](./backend/dotnet/junior.md) | [`backend/laravel/junior.md`](./backend/laravel/junior.md) |
+| Mid | [`backend/dotnet/mid.md`](./backend/dotnet/mid.md) | [`backend/laravel/mid.md`](./backend/laravel/mid.md) |
+| Senior | [`backend/dotnet/senior.md`](./backend/dotnet/senior.md) | [`backend/laravel/senior.md`](./backend/laravel/senior.md) |
 
 ### Frontend / Next.js
 
@@ -58,6 +68,22 @@ fullstack/
 | Junior | [`fullstack/nestjs-nextjs/junior.md`](./fullstack/nestjs-nextjs/junior.md) |
 | Mid | [`fullstack/nestjs-nextjs/mid.md`](./fullstack/nestjs-nextjs/mid.md) |
 | Senior | [`fullstack/nestjs-nextjs/senior.md`](./fullstack/nestjs-nextjs/senior.md) |
+
+### Fullstack / PHP (Laravel) + Next.js
+
+| Level | File |
+| --- | --- |
+| Junior | [`fullstack/php-nextjs/junior.md`](./fullstack/php-nextjs/junior.md) |
+| Mid | [`fullstack/php-nextjs/mid.md`](./fullstack/php-nextjs/mid.md) |
+| Senior | [`fullstack/php-nextjs/senior.md`](./fullstack/php-nextjs/senior.md) |
+
+### Fullstack / ASP.NET Core + Next.js
+
+| Level | File |
+| --- | --- |
+| Junior | [`fullstack/aspnetcore-nextjs/junior.md`](./fullstack/aspnetcore-nextjs/junior.md) |
+| Mid | [`fullstack/aspnetcore-nextjs/mid.md`](./fullstack/aspnetcore-nextjs/mid.md) |
+| Senior | [`fullstack/aspnetcore-nextjs/senior.md`](./fullstack/aspnetcore-nextjs/senior.md) |
 
 ## How to submit
 
